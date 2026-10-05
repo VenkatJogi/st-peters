@@ -1,0 +1,19 @@
+GRADUATE AI ENGINEER — NOVATECH, HYDERABAD
+
+We are hiring entry-level engineers to build AI-powered workflow applications.
+
+Required
+- Strong Python and SQL fundamentals
+- REST API development and Git
+- Understanding of machine learning evaluation
+- Clear technical communication and problem solving
+
+Preferred
+- Experience with LLM APIs such as Gemini
+- Function calling, retrieval-augmented generation, or AI agents
+- Docker, cloud deployment, CI/CD, and automated testing
+- Ability to monitor model quality, latency, token usage, and cost
+
+Selection process
+Online coding test, project discussion, system-design exercise, and HR interview.
+

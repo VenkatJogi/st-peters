@@ -1,0 +1,24 @@
+ARJUN REDDY
+B.Tech Computer Science, graduating 2027 | CGPA: 8.1
+
+SKILLS
+Python, SQL, JavaScript, Git, pandas, scikit-learn, Flask, HTML/CSS
+
+PROJECTS
+Student Placement Predictor
+- Cleaned and analysed 12,000 placement records using pandas.
+- Trained classification models and improved F1 score from 0.71 to 0.82.
+- Exposed predictions through a Flask REST API.
+
+Campus Helpdesk Chatbot
+- Built a retrieval-based FAQ chatbot using Python and sentence embeddings.
+- Created an admin page for updating college FAQs.
+
+EXPERIENCE
+Data Science Intern, EduMetrics — 8 weeks
+- Automated weekly reporting with Python and SQL.
+- Presented dashboard findings to the product team.
+
+ACHIEVEMENTS
+Finalist, inter-college hackathon; solved 180 problems on LeetCode.
+
